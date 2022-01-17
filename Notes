@@ -1,0 +1,22 @@
+Necessary extensions:
+Robot framework intellisense - to use robot
+Python - my program language
+
+Plus extensions:
+Materion Icon Theme - to get vs more prettier
+
+I'm using too:
+Cmder - for a better console 
+pip install robotframework - to execute robot in terminal
+pip install robotframework-seleniumlibrary - to use selenium in robot
+--------------------------------------------------
+Links:
+
+I'm testing training wheel qaninja website http://training-wheels-protocol.herokuapp.com/
+I'm reading selenium documentation for selenium with Python https://selenium-python.readthedocs.io/
+I installed  https://chromedriver.chromium.org/home 
+I'm reading all comands for selenium with robot https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
+---------------------------------------------------
+Tips:
+I can use robot --help 
+I can use robot -d ./log to run and generate an output in a organized way
